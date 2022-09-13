@@ -845,12 +845,12 @@ public class LemonadeController {
         "2. How many advertising signs to make        (the signs cost fifteen cents each)  \n" +
         "3. What price to charge for each glass  \n" +
         "\n" +
-       "You will begin with $2.00 cash (assets)." +
+       "You will begin with $2.00 cash (assets). " +
         "Because your mother gave you some sugar,\n" +
         "your cost to make lemonade is two cents " +
         "a glass (this may change in the future).\n" +
         "\n" +        
-        "Your expenses are the sum of the cost of" +
+        "Your expenses are the sum of the cost of " +
         "the lemonade and the cost of your signs. \n" +
         "\n" +        
         "Your profits are the difference between " +
