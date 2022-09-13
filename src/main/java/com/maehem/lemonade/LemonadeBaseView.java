@@ -25,7 +25,7 @@ import javax.sound.midi.Track;
 
 /**
  *
- * @author mark
+ * @author Mark J Koch
  */
 public class LemonadeBaseView extends StackPane implements LemonadeStateChangeListener {
     private static final Logger log = Logger.getLogger(LemonadeBaseView.class.getName());

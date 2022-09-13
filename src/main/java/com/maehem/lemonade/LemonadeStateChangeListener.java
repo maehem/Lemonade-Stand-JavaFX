@@ -5,7 +5,7 @@ package com.maehem.lemonade;
 
 /**
  *
- * @author mark
+ * @author Mark J. Koch
  */
 public interface LemonadeStateChangeListener {
     

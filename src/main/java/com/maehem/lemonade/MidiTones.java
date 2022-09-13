@@ -1,6 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Example MIDI - for experimentation
  */
 package com.maehem.lemonade;
 
@@ -8,7 +7,7 @@ import javax.sound.midi.*;
 
 /**
  *
- * @author mark
+ * @author mark J. Koch
  */
 public class MidiTones {
 
