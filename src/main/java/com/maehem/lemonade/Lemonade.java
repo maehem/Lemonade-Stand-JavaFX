@@ -10,13 +10,36 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 /*
- *  TODO:
+ *  TODO and possble enhancements:
  *       - music as intended from original BASIC data and code.
- *       - 
-*/
+ *       - player bankrupt actions not tested, and probably don't work right.
+ *       - more cloud layers and configurations
+ *       - animate sun moving during sales state.
+ *       - update cups shown throughout sales day.
+ *       - add a basket of lemons next to stand.
+ *       - bag of sugar, cutting board, pitcher shown at pre-setup phase.
+ *       - Name each character.
+ *       - Southpark-style character sitting behind stand. Random kid each run.
+ *       - Lemonade price displayed during sales day.
+ *       - fix issue where street crew buyout shows on visual too early.
+ *       - enhance pre-selling "chance of rain" and post-selling "actual rain" visual
+ *       - get save/load working
+ *       - popup graph of sales results so far.
+ *       - integrate UI into single window, no pop-up dialogs.
+ *       - future:  stock ticker at bottom showing price of sugar & lemons + weather forecast.
+ *       _ more progression of lemons, sugar and paper(for ad signs).
+ *       - individual buffs and penalties (mom gave sugar/lemons)
+ *       - better weather system: temp, humidity, rain chance, wind
+ *       - freak snowstorm, windstorm(fall leaves in drinks), attacked by flock of miscevious cockatoos/bees
+ *       - visual with up to 6 stands in a row.
+ *       - resizable UI.
+ *       - online play
+ *       - menu of items for sale (multiple drinks to make).
+ */
+
 /**
  *
- * @author mark
+ * @author Mark J Koch
  */
 public class Lemonade extends Application {
 
